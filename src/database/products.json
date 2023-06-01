@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Sabzi",
+        "price": "5000",
+        "imgUrl": "https://stat.uz/images/com_droppics/297/full/sabziichi11102021.jpg",
+        "category": "3"
+    },
+    {
+        "id": 2,
+        "name": "Samsung A54",
+        "price": "500000",
+        "imgUrl": "https://picsum.photos/200/200",
+        "category": "1"
+    },
+    {
+        "id": 3,
+        "name": "olma",
+        "price": "15000",
+        "imgUrl": "https://picsum.photos/200/200",
+        "category": "3"
+    }
+]
